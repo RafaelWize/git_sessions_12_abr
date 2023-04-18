@@ -7,3 +7,4 @@
 # commit firmado
 # commit firmado automaticamente
 # commit sin firmar
+# commit firmado con -S
